@@ -8,7 +8,7 @@ class Database{
     private $host = "localhost";
     private $db = "task_api";
     private $user = "root";
-    private $password = "roottesting2025";
+    private $password = "";
     private $conn;
 
     public function __construct()
